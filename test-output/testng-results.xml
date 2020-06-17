@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22750" started-at="2020-06-16T23:32:06 PDT" finished-at="2020-06-16T23:32:29 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22750" started-at="2020-06-16T23:32:06 PDT" finished-at="2020-06-16T23:32:29 PDT">
+      <class name="com.testing.Tests.TestCases">
+        <test-method status="PASS" signature="triggerDependencies()[pri:0, instance:com.testing.Tests.TestCases@2353b3e6]" name="triggerDependencies" is-config="true" duration-ms="6132" started-at="2020-06-16T23:32:00 PDT" finished-at="2020-06-16T23:32:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- triggerDependencies -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testing.Tests.TestCases@2353b3e6]" name="setup" is-config="true" duration-ms="1773" started-at="2020-06-16T23:32:06 PDT" finished-at="2020-06-16T23:32:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginWithInvalid()[pri:1, instance:com.testing.Tests.TestCases@2353b3e6]" name="LoginWithInvalid" duration-ms="4925" started-at="2020-06-16T23:32:08 PDT" finished-at="2020-06-16T23:32:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalid -->
+        <test-method status="PASS" signature="LoginWithvalid()[pri:2, instance:com.testing.Tests.TestCases@2353b3e6]" name="LoginWithvalid" duration-ms="4800" started-at="2020-06-16T23:32:13 PDT" finished-at="2020-06-16T23:32:18 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithvalid -->
+        <test-method status="PASS" signature="Homepage()[pri:3, instance:com.testing.Tests.TestCases@2353b3e6]" name="Homepage" duration-ms="11160" started-at="2020-06-16T23:32:18 PDT" finished-at="2020-06-16T23:32:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.Tests.TestCases@2353b3e6]" name="tearDown" is-config="true" duration-ms="166" started-at="2020-06-16T23:32:30 PDT" finished-at="2020-06-16T23:32:30 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testing.Tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

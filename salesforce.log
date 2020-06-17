@@ -1,0 +1,70 @@
+2020-06-16 20:17:00 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:38:25 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:38:39 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:38:43 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:38:53 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:41:19 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:41:30 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:41:36 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:41:41 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:42:31 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:42:43 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:42:48 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:42:57 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:44:05 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:44:17 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:44:22 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:44:33 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:47:27 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:47:42 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:47:46 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:47:55 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:49:25 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:49:36 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:49:41 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:49:50 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:50:58 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:51:09 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:51:13 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:51:23 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 20:56:41 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 20:56:54 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 20:56:58 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 20:57:06 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 21:01:00 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 21:01:14 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 21:01:18 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 21:01:27 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 21:01:27 INFO  com.testing.POMTests.TestCase 58 - browUtil.driver.getCurrentUrl().trim()https://na172.salesforce.com/secur/logout.jsp
+2020-06-16 21:02:08 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 21:02:20 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 21:02:24 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 21:02:33 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 21:03:01 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 21:03:14 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 21:03:18 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 21:03:28 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 21:22:05 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 21:22:18 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 21:22:23 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 21:22:33 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 21:27:08 INFO  com.testing.listeners.TestBase 47 - launching browser
+2020-06-16 21:27:23 INFO  com.testing.POMTests.TestCase 32 - login with invalid credentials
+2020-06-16 21:27:30 INFO  com.testing.POMTests.TestCase 43 - Login With valid credentials
+2020-06-16 21:27:39 INFO  com.testing.POMTests.TestCase 57 - logout is clicked
+2020-06-16 22:04:15 INFO  com.testing.listeners.TestBase 26 - launching browser
+2020-06-16 22:04:31 INFO  com.testing.Tests.TestCases 32 - login with invalid credentials
+2020-06-16 22:04:35 INFO  com.testing.Tests.TestCases 43 - Login With valid credentials
+2020-06-16 22:04:45 INFO  com.testing.Tests.TestCases 57 - logout is clicked
+2020-06-16 23:28:26 INFO  com.testing.listeners.TestBase 26 - launching browser
+2020-06-16 23:28:40 INFO  com.testing.Tests.TestCases 32 - login with invalid credentials
+2020-06-16 23:28:45 INFO  com.testing.Tests.TestCases 43 - Login With valid credentials
+2020-06-16 23:28:55 INFO  com.testing.Tests.TestCases 57 - logout is clicked
+2020-06-16 23:30:38 INFO  com.testing.listeners.TestBase 26 - launching browser
+2020-06-16 23:30:53 INFO  com.testing.Tests.TestCases 32 - login with invalid credentials
+2020-06-16 23:30:57 INFO  com.testing.Tests.TestCases 43 - Login With valid credentials
+2020-06-16 23:31:07 INFO  com.testing.Tests.TestCases 57 - logout is clicked
+2020-06-16 23:32:00 INFO  com.testing.listeners.TestBase 26 - launching browser
+2020-06-16 23:32:13 INFO  com.testing.Tests.TestCases 32 - login with invalid credentials
+2020-06-16 23:32:18 INFO  com.testing.Tests.TestCases 43 - Login With valid credentials
+2020-06-16 23:32:29 INFO  com.testing.Tests.TestCases 57 - logout is clicked
